@@ -1,3 +1,3 @@
 # Conda-Installer
 
-pushing-in-progress
+push-in-progress
