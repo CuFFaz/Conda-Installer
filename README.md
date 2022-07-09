@@ -1,3 +1,3 @@
 # Conda-Installer
 
-push-in-progress
+Auto Install Python, VSCode, Conda on a new Windows instance of any version.
